@@ -14,3 +14,6 @@ Scenario 2: Searching for the word "prowly" on Google.com, filtered by date rang
 - Past hour
 - Past day
 - Past week
+
+Test cases for Bing and Google can be found in the test_cases/features folder.
+
